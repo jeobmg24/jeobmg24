@@ -7,9 +7,10 @@
 ## Languages
 1. Python
 2. C/C++
-3. HTML/CSS
-4. JavaScript
-5. RISC-V
+3. SQL
+4. HTML/CSS
+5. JavaScript
+6. RISC-V
 
 
 
