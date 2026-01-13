@@ -10,7 +10,7 @@
 3. SQL
 4. HTML/CSS
 5. JavaScript
-6. RISC-V
+6. Go
 
 
 
